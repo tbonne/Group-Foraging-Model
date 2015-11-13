@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<sweep runs="1">
+
+	<parameter name="randomSeed" type="constant" constant_type="number"
+		value="1234">
+		<parameter name="Death_host" type="constant" constant_type="number"
+			value="0.0002">
+			<parameter name="Death_env" type="constant" constant_type="number"
+				value="0.00002">
+
+				<parameter name="mature_e_i" type="constant"
+					constant_type="number" value="7">
+					<parameter name="mature_i_l" type="constant"
+						constant_type="number" value="2">
+
+						<parameter name="prob_dispersal" type="constant"
+							constant_type="number" value="0.00002">
+							<parameter name="prob_ingest" type="constant"
+								constant_type="number" value="0.002">
+							</parameter>
+						</parameter>
+					</parameter>
+				</parameter>
+			</parameter>
+		</parameter>
+	
+	
+		<parameter name="Death_host" type="constant" constant_type="number"
+			value="0.02">
+			<parameter name="Death_env" type="constant" constant_type="number"
+				value="0.002">
+
+				<parameter name="mature_e_i" type="constant"
+					constant_type="number" value="3">
+					<parameter name="mature_i_l" type="constant"
+						constant_type="number" value="1">
+
+						<parameter name="prob_dispersal" type="constant"
+							constant_type="number" value="0.0002">
+							<parameter name="prob_ingest" type="constant"
+								constant_type="number" value="0.2">
+							</parameter>
+						</parameter>
+					</parameter>
+				</parameter>
+			</parameter>
+		</parameter>
+	</parameter>
+	
+</sweep>

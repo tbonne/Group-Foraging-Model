@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="con" path="REPAST_SIMPHONY_SUPPORT"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JRI_DIR"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="lib" path="lib/Jama-1.0.3.jar" sourcepath="lib/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/RserveEngine.jar"/>
+	<classpathentry kind="lib" path="lib/JRI.jar"/>
+	<classpathentry kind="lib" path="lib/JRIEngine.jar"/>
+	<classpathentry kind="lib" path="lib/REngine.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t-work/Dropbox/project_Agent_interaction_hetero_and_parallel/code2/LHP/lib/jsc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t-work/Dropbox/project_Agent_interaction_hetero_and_parallel/code2/LHP/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/t-work/Dropbox/project_Agent_interaction_hetero_and_parallel/code2/LHP/lib/jai_core-1.1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
